@@ -1,0 +1,14 @@
+Blog Post: What Happens When You Type https://www.google.com in Your Browser and Press Enter?
+
+This blog post explains step by step what happens behind the scenes when you type https://www.google.com in your browser and press Enter. The following topics are covered in detail:
+
+DNS Request: How the domain name is translated into an IP address by DNS resolvers.
+TCP/IP: How the browser establishes a connection using TCP/IP protocols.
+Firewall: The role of firewalls in protecting networks and allowing/denying traffic.
+HTTPS/SSL: The process of encryption and securing the connection using SSL certificates.
+Load Balancer: How the load balancer distributes incoming traffic to different servers to ensure reliability.
+Web Server: The role of the web server (e.g., Nginx or Apache) in serving static content.
+Application Server: The application server's function in running dynamic code and interacting with databases.
+Database: The database's role in storing and retrieving data for the application.
+Summary:
+From typing the URL to rendering the web page, the process involves multiple components working seamlessly together. Understanding this process is essential for anyone in tech, from front-end developers to system administrators.
