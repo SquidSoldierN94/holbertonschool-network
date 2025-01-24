@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
-sudo nc -l -p 98
+# This script listens on port 98 on localhost and displays received text
+
+# Use the `nc` command (netcat) to listen on localhost at port 98
+nc -l 127.0.0.1 98
