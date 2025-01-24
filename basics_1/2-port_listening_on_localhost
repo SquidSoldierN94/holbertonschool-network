@@ -1,3 +1,2 @@
-#!/bin/bash
-
-nc -lk 127.0.0.1 98
+#!/usr/bin/env bash
+sudo nc -l -p 98

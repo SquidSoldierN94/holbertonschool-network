@@ -1,3 +1,2 @@
-#!/bin/bash
-
-ss -tulnps
+#!/usr/bin/env bash
+netstat -pl
